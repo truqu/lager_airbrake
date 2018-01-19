@@ -1,0 +1,8 @@
+[{<<"ibrowse">>,
+  {git,"git://github.com/cmullaparthi/ibrowse.git",
+       {ref,"a1be5369c94920e3fbb8729ac81125524acb56a6"}},
+  0},
+ {<<"jiffy">>,
+  {git,"git://github.com/davisp/jiffy.git",
+       {ref,"6303ff98aaa3fce625038c8b7af2aa8b802f4742"}},
+  0}].

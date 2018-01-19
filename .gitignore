@@ -31,3 +31,4 @@ ebin
 erl_crash.dump
 *.beam
 .rebar
+/_build
